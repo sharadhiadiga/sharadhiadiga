@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharadhi Adiga</h1>
 <h3 align="center">Exploring AI, building ideas, and turning them into real-world solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharadhiadiga" alt="sharadhiadiga" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, System Design & scalable software development**
 
